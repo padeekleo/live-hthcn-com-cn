@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://padeekleo.github.io/live-hthcn-com-cn/sitemap.xml
